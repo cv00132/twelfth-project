@@ -1,0 +1,50 @@
+@import "bulma";
+
+img {
+  border-radius: 50%;
+  height: 10%;
+  width: 10%;
+}
+
+h1 {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto 5% auto;
+  font-size: 36pt;
+  color: black;
+  line-height: .8em;
+
+  span {
+    border-bottom: 2px dotted black;
+  }
+}
+
+.title {
+  background: black;
+  color: white;
+}
+
+@media (max-width: 375px){
+  .title {
+    background: black;
+    color: white;
+    font-size: .5em;
+  }
+
+  img {
+    height: 10%;
+    width: 10%;
+   }
+}
+
+@media  screen and (max-width : 768px){
+  img {
+    height: 5%;
+    width: 5%;
+   }
+}
+
+/* Desktops and laptops ----------- */
+@media  screen  and (max-width : 1224px) {
+/* Styles */
+}
