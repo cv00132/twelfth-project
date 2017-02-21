@@ -1,4 +1,4 @@
-## Twelfth Project -- w3d1
+## Twelfth Project -- w5d1
 # Github VCard - responsive
 
 * Assignment - Create a profile card with Github information
