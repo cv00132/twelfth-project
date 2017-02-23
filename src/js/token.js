@@ -1,3 +1,3 @@
-var token = "2c5a27577c135e4600f2c364fd9e637c628c59a8";
+var token = "7ec6176969c13e1ccfcb72575b85028ad6e1ae44";
 
 export default token ;
