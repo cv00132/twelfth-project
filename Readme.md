@@ -16,4 +16,4 @@ Learning Objectives
   * Ran simple function to sort through object's data
 
 
-https://http://tiy-coryvaughan-twelfth-project.surge.sh/
+http://tiy-coryvaughan-twelfth-project.surge.sh/

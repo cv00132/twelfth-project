@@ -1,5 +1,5 @@
 import $ from "jquery";
-import { showData } from "./main";
+import { showData } from "./github";
 
 
 function resultsTemplate(showData) {
